@@ -1,2 +1,2 @@
 # RandomWalks
-Projects and problems relating to random walks, both classical or non-classical
+Projects and problems relating to random walks, both classical and non-classical
